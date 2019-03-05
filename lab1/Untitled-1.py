@@ -30,7 +30,7 @@ except:
 
 #%%
 import pandas as pd
-import numpy as np
+import numpy as npP
 import statsmodels.api as sm
 import statsmodels.formula.api as smf
 hitters = pd.read_csv("Hitters.csv", index_col = 0)
